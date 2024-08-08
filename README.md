@@ -23,4 +23,4 @@ Data can be found [here](https://www.dropbox.com/scl/fo/vz49vv8tsbg5fquy690dp/AL
 
 - PRDC [official repo](https://github.com/clovaai/generative-evaluation-prdc) / [paper](https://arxiv.org/pdf/2002.09797)
 - MMD [implementation](https://github.com/jindongwang/transferlearning/tree/master/code/distance)
-- Wasserstein [library pot](https://pythonot.github.io/)
+- Wasserstein [POT library](https://pythonot.github.io/)
